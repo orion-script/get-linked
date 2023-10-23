@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.back {
+  background: url(<path-to-image>),
+    lightgray -155.25px -155px / 114.411% 118.9% no-repeat;
+  background-blend-mode: hard-light;
+}
